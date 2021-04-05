@@ -1,0 +1,70 @@
+Id,VotoCode,Nombre,ApellidoPaterno,ApellidoMaterno,NombreCompleto,Voto
+968,1,Jenny,Álvarez,Vera,Jenny Álvarez Vera,Afirmativo
+925,1,Pepe,Auth,Stewart,Pepe Auth Stewart,Afirmativo
+970,1,Jaime,Bellolio,Avaria,Jaime Bellolio Avaria,Afirmativo
+982,1,Iván,Flores,García,Iván Flores García,Afirmativo
+984,1,Gonzalo,Fuenzalida,Figueroa,Gonzalo Fuenzalida Figueroa,Afirmativo
+848,1,Rodrigo,González,Torres,Rodrigo González Torres,Afirmativo
+986,1,Marcela,Hernando,Pérez,Marcela Hernando Pérez,Afirmativo
+940,1,María José,Hoffmann,Opazo,María José Hoffmann Opazo,Afirmativo
+987,1,Giorgio,Jackson,Drago,Giorgio Jackson Drago,Afirmativo
+862,1,Pablo,Lorenzini,Basso,Pablo Lorenzini Basso,Afirmativo
+942,1,Javier,Macaya,Danús,Javier Macaya Danús,Afirmativo
+869,1,Manuel,Monsalve,Benavides,Manuel Monsalve Benavides,Afirmativo
+875,1,Iván,Norambuena,Farías,Iván Norambuena Farías,Afirmativo
+994,1,Paulina,Núñez,Urrutia,Paulina Núñez Urrutia,Afirmativo
+995,1,Diego,Paulsen,Kehr,Diego Paulsen Kehr,Afirmativo
+946,1,Leopoldo,Pérez,Lahsen,Leopoldo Pérez Lahsen,Afirmativo
+999,1,Jorge,Rathgeb,Schifferli,Jorge Rathgeb Schifferli,Afirmativo
+893,1,Jorge,Sabag,Villalobos,Jorge Sabag Villalobos,Afirmativo
+952,1,Alejandro,Santana,Tirachini,Alejandro Santana Tirachini,Afirmativo
+920,1,Marcelo,Schilling,Rodríguez,Marcelo Schilling Rodríguez,Afirmativo
+897,1,Alejandra,Sepúlveda,Orbenes,Alejandra Sepúlveda Orbenes,Afirmativo
+1002,1,Leonardo,Soto,Ferrada,Leonardo Soto Ferrada,Afirmativo
+1003,1,Renzo,Trisotti,Martínez,Renzo Trisotti Martínez,Afirmativo
+908,1,Ignacio,Urrutia,Bonilla,Ignacio Urrutia Bonilla,Afirmativo
+1005,1,Osvaldo,Urrutia,Soto,Osvaldo Urrutia Soto,Afirmativo
+1006,1,Camila,Vallejo,Dowling,Camila Vallejo Dowling,Afirmativo
+959,1,Enrique,Van Rysselberghe,Herrera,Enrique Van Rysselberghe Herrera,Afirmativo
+1008,1,Florcita,Alarcón,Rojas,Florcita Alarcón Rojas,Afirmativo
+803,1,René,Alinco,Bustos,René Alinco Bustos,Afirmativo
+815,1,Sergio,Bobadilla,Muñoz,Sergio Bobadilla Muñoz,Afirmativo
+1015,1,Jorge,Brito,Hasbún,Jorge Brito Hasbún,Afirmativo
+1017,1,Álvaro,Carter,Fernández,Álvaro Carter Fernández,Afirmativo
+1018,1,Natalia,Castillo,Muñoz,Natalia Castillo Muñoz,Afirmativo
+1019,1,José Miguel,Castro,Bascuñán,José Miguel Castro Bascuñán,Afirmativo
+1026,1,Mario,Desbordes,Jiménez,Mario Desbordes Jiménez,Afirmativo
+827,1,Marcelo,Díaz,Díaz,Marcelo Díaz Díaz,Afirmativo
+1028,1,Eduardo,Durán,Salinas,Eduardo Durán Salinas,Afirmativo
+1031,1,Juan,Fuenzalida,Cobo,Juan Fuenzalida Cobo,Afirmativo
+1038,1,Marcos,Ilabaca,Cerda,Marcos Ilabaca Cerda,Afirmativo
+1039,1,Pamela,Jiles,Moreno,Pamela Jiles Moreno,Afirmativo
+1040,1,Harry,Jürgensen,Rundshagen,Harry Jürgensen Rundshagen,Afirmativo
+1042,1,Sebastián,Keitel,Bianchi,Sebastián Keitel Bianchi,Afirmativo
+1043,1,Amaro,Labra,Sepúlveda,Amaro Labra Sepúlveda,Afirmativo
+1044,1,Raúl,Leiva,Carvajal,Raúl Leiva Carvajal,Afirmativo
+1047,1,Karin,Luck,Urban,Karin Luck Urban,Afirmativo
+1048,1,Carolina,Marzán,Pinto,Carolina Marzán Pinto,Afirmativo
+1049,1,Cosme,Mellado,Pino,Cosme Mellado Pino,Afirmativo
+1050,1,Miguel,Mellado,Suazo,Miguel Mellado Suazo,Afirmativo
+1051,1,Claudia,Mix,Jiménez,Claudia Mix Jiménez,Afirmativo
+1056,1,Emilia,Nuyado,Ancapichún,Emilia Nuyado Ancapichún,Afirmativo
+1057,1,Erika,Olivera,De La Fuente,Erika Olivera De La Fuente,Afirmativo
+1058,1,Maite,Orsini,Pascal,Maite Orsini Pascal,Afirmativo
+1059,1,Ximena,Ossandón,Irarrázabal,Ximena Ossandón Irarrázabal,Afirmativo
+1062,1,Joanna,Pérez,Olea,Joanna Pérez Olea,Afirmativo
+1064,1,Pablo,Prieto,Lorca,Pablo Prieto Lorca,Afirmativo
+1067,1,Hugo,Rey,Martínez,Hugo Rey Martínez,Afirmativo
+1068,1,Camila,Rojas,Valderrama,Camila Rojas Valderrama,Afirmativo
+1070,1,Patricio,Rosas,Barrientos,Patricio Rosas Barrientos,Afirmativo
+1071,1,Gastón,Saavedra,Chandía,Gastón Saavedra Chandía,Afirmativo
+1072,1,Gustavo,Sanhueza,Dueñas,Gustavo Sanhueza Dueñas,Afirmativo
+953,1,Frank,Sauerbaum,Muñoz,Frank Sauerbaum Muñoz,Afirmativo
+1077,1,Raúl,Soto,Mardones,Raúl Soto Mardones,Afirmativo
+1079,1,Sebastián,Torrealba,Alvarado,Sebastián Torrealba Alvarado,Afirmativo
+1081,1,Francisco,Undurraga,Gazitúa,Francisco Undurraga Gazitúa,Afirmativo
+1082,1,Cristóbal,Urruticoechea,Ríos,Cristóbal Urruticoechea Ríos,Afirmativo
+917,1,Gastón,Von Mühlenbrock,Zamora,Gastón Von Mühlenbrock Zamora,Afirmativo
+1086,1,Gonzalo,Winter,Etcheberry,Gonzalo Winter Etcheberry,Afirmativo
+872,1,Jaime,Mulet,Martínez,Jaime Mulet Martínez,Afirmativo
+74,1,Jaime,Naranjo,Ortiz,Jaime Naranjo Ortiz,Afirmativo

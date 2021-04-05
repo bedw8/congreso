@@ -1,0 +1,87 @@
+Id,VotoCode,Nombre,ApellidoPaterno,ApellidoMaterno,NombreCompleto,Voto
+923,2,Pedro Pablo,Alvarez-Salamanca,Ramírez,Pedro Pablo Alvarez-Salamanca Ramírez,Abstención
+925,1,Pepe,Auth,Stewart,Pepe Auth Stewart,Afirmativo
+811,2,Ramón,Barros,Montero,Ramón Barros Montero,Abstención
+971,2,Bernardo,Berger,Fett,Bernardo Berger Fett,Abstención
+972,1,Gabriel,Boric,Font,Gabriel Boric Font,Afirmativo
+974,1,Loreto,Carvajal,Ambiado,Loreto Carvajal Ambiado,Afirmativo
+975,1,Daniella,Cicardini,Milla,Daniella Cicardini Milla,Afirmativo
+982,1,Iván,Flores,García,Iván Flores García,Afirmativo
+843,2,René Manuel,García,García,René Manuel García García,Abstención
+850,1,Javier,Hernández,Hernández,Javier Hernández Hernández,Afirmativo
+940,0,María José,Hoffmann,Opazo,María José Hoffmann Opazo,En Contra
+987,1,Giorgio,Jackson,Drago,Giorgio Jackson Drago,Afirmativo
+855,1,Carlos Abel,Jarpa,Wevar,Carlos Abel Jarpa Wevar,Afirmativo
+856,1,Tucapel,Jiménez,Fuentes,Tucapel Jiménez Fuentes,Afirmativo
+967,0,Issa,Kort,Garriga,Issa Kort Garriga,En Contra
+862,1,Pablo,Lorenzini,Basso,Pablo Lorenzini Basso,Afirmativo
+942,2,Javier,Macaya,Danús,Javier Macaya Danús,Abstención
+865,0,Patricio,Melero,Abaroa,Patricio Melero Abaroa,En Contra
+879,1,José Miguel,Ortiz,Novoa,José Miguel Ortiz Novoa,Afirmativo
+995,0,Diego,Paulsen,Kehr,Diego Paulsen Kehr,En Contra
+885,1,José,Pérez,Arriagada,José Pérez Arriagada,Afirmativo
+946,0,Leopoldo,Pérez,Lahsen,Leopoldo Pérez Lahsen,En Contra
+999,2,Jorge,Rathgeb,Schifferli,Jorge Rathgeb Schifferli,Abstención
+1000,1,Luis,Rocafull,López,Luis Rocafull López,Afirmativo
+950,1,René,Saffirio,Espinoza,René Saffirio Espinoza,Afirmativo
+1001,1,Raúl,Saldívar,Auger,Raúl Saldívar Auger,Afirmativo
+920,1,Marcelo,Schilling,Rodríguez,Marcelo Schilling Rodríguez,Afirmativo
+1002,1,Leonardo,Soto,Ferrada,Leonardo Soto Ferrada,Afirmativo
+956,1,Guillermo,Teillier,Del Valle,Guillermo Teillier Del Valle,Afirmativo
+957,1,Víctor,Torres,Jeldes,Víctor Torres Jeldes,Afirmativo
+908,2,Ignacio,Urrutia,Bonilla,Ignacio Urrutia Bonilla,Abstención
+1005,0,Osvaldo,Urrutia,Soto,Osvaldo Urrutia Soto,En Contra
+959,2,Enrique,Van Rysselberghe,Herrera,Enrique Van Rysselberghe Herrera,Abstención
+913,1,Mario,Venegas,Cárdenas,Mario Venegas Cárdenas,Afirmativo
+963,1,Matías,Walker,Prieto,Matías Walker Prieto,Afirmativo
+803,1,René,Alinco,Bustos,René Alinco Bustos,Afirmativo
+1010,1,Sebastián,Álvarez,Ramírez,Sebastián Álvarez Ramírez,Afirmativo
+1011,2,Sandra,Amar,Mancilla,Sandra Amar Mancilla,Abstención
+926,1,Nino,Baltolu,Rasera,Nino Baltolu Rasera,Afirmativo
+1012,1,Boris,Barrera,Moreno,Boris Barrera Moreno,Afirmativo
+1013,1,Alejandro,Bernales,Maldonado,Alejandro Bernales Maldonado,Afirmativo
+815,0,Sergio,Bobadilla,Muñoz,Sergio Bobadilla Muñoz,En Contra
+1015,1,Jorge,Brito,Hasbún,Jorge Brito Hasbún,Afirmativo
+1017,2,Álvaro,Carter,Fernández,Álvaro Carter Fernández,Abstención
+1018,1,Natalia,Castillo,Muñoz,Natalia Castillo Muñoz,Afirmativo
+1019,1,José Miguel,Castro,Bascuñán,José Miguel Castro Bascuñán,Afirmativo
+1021,2,Andrés,Celis,Montt,Andrés Celis Montt,Abstención
+1022,2,Sofía,Cid,Versalovic,Sofía Cid Versalovic,Abstención
+1023,1,Miguel,Crispi,Serrano,Miguel Crispi Serrano,Afirmativo
+1028,2,Eduardo,Durán,Salinas,Eduardo Durán Salinas,Abstención
+1032,0,Ramón,Galleguillos,Castillo,Ramón Galleguillos Castillo,En Contra
+1034,1,Félix,González,Gatica,Félix González Gatica,Afirmativo
+1035,1,Carmen,Hertz,Cádiz,Carmen Hertz Cádiz,Afirmativo
+1037,1,Diego,Ibáñez,Cotroneo,Diego Ibáñez Cotroneo,Afirmativo
+1038,1,Marcos,Ilabaca,Cerda,Marcos Ilabaca Cerda,Afirmativo
+1039,1,Pamela,Jiles,Moreno,Pamela Jiles Moreno,Afirmativo
+1042,1,Sebastián,Keitel,Bianchi,Sebastián Keitel Bianchi,Afirmativo
+1044,1,Raúl,Leiva,Carvajal,Raúl Leiva Carvajal,Afirmativo
+1046,1,Andrés,Longton,Herrera,Andrés Longton Herrera,Afirmativo
+1047,2,Karin,Luck,Urban,Karin Luck Urban,Abstención
+1048,1,Carolina,Marzán,Pinto,Carolina Marzán Pinto,Afirmativo
+660,1,Manuel,Matta,Aragay,Manuel Matta Aragay,Afirmativo
+1050,1,Miguel,Mellado,Suazo,Miguel Mellado Suazo,Afirmativo
+1052,1,Andrés,Molina,Magofke,Andrés Molina Magofke,Afirmativo
+1054,1,Francesca,Muñoz,González,Francesca Muñoz González,Afirmativo
+1055,0,Nicolás,Noman,Garrido,Nicolás Noman Garrido,En Contra
+1056,1,Emilia,Nuyado,Ancapichún,Emilia Nuyado Ancapichún,Afirmativo
+1057,1,Erika,Olivera,De La Fuente,Erika Olivera De La Fuente,Afirmativo
+1059,1,Ximena,Ossandón,Irarrázabal,Ximena Ossandón Irarrázabal,Afirmativo
+1061,1,Andrea,Parra,Sauterel,Andrea Parra Sauterel,Afirmativo
+1062,1,Joanna,Pérez,Olea,Joanna Pérez Olea,Afirmativo
+1064,0,Pablo,Prieto,Lorca,Pablo Prieto Lorca,En Contra
+1067,1,Hugo,Rey,Martínez,Hugo Rey Martínez,Afirmativo
+1068,1,Camila,Rojas,Valderrama,Camila Rojas Valderrama,Afirmativo
+1069,1,Leonidas,Romero,Sáez,Leonidas Romero Sáez,Afirmativo
+1071,1,Gastón,Saavedra,Chandía,Gastón Saavedra Chandía,Afirmativo
+1073,1,Juan,Santana,Castillo,Juan Santana Castillo,Afirmativo
+1074,1,Marisela,Santibáñez,Novoa,Marisela Santibáñez Novoa,Afirmativo
+1075,1,Diego,Schalper,Sepúlveda,Diego Schalper Sepúlveda,Afirmativo
+1076,1,Alexis,Sepúlveda,Soto,Alexis Sepúlveda Soto,Afirmativo
+1077,1,Raúl,Soto,Mardones,Raúl Soto Mardones,Afirmativo
+1078,1,Jaime,Tohá,González,Jaime Tohá González,Afirmativo
+1082,2,Cristóbal,Urruticoechea,Ríos,Cristóbal Urruticoechea Ríos,Abstención
+1083,1,Esteban,Velásquez,Núñez,Esteban Velásquez Núñez,Afirmativo
+917,2,Gastón,Von Mühlenbrock,Zamora,Gastón Von Mühlenbrock Zamora,Abstención
+74,1,Jaime,Naranjo,Ortiz,Jaime Naranjo Ortiz,Afirmativo
