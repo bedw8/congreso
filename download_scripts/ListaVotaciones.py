@@ -47,8 +47,7 @@ def text_valor(x,string):
 lista_df = [parse_votacion(i) for i in lista_v]
 
 df = pd.concat(lista_df).sort_values('Id')
+df = df.set_index('Id')
+df = df.loc[28231:]
 
-pvix = df[df['Id']==28231].index[0] # index primera votación periodo 
-df = df[pvix:]
-
-df.to_csv('CSV/lista.csv',index=False)
+df.to_csv('CSV/lista.csv')##index=False)
